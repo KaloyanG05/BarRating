@@ -1,0 +1,1210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BarManager-main\\BarRating\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\admin\\adminstartpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\admin\\adminstartpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\bar\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\user\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\user\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\reviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\reviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\shared\\_layoutforadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\shared\\_layoutforadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\bar\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\bar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\bar\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\bar\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\bar\\createreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\createreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BarManager-main\\BarRating\\DataLayer\\Migrations\\20240428225309_firstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataLayer\\Migrations\\20240428225309_firstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|D:\\BarManager-main\\BarRating\\datalayer\\bardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\bardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\bar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|D:\\BarManager-main\\BarRating\\datalayer\\data\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\data\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|D:\\BarManager-main\\BarRating\\datalayer\\data\\entities\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\data\\entities\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\views\\bar\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\models\\barmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\models\\barmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|D:\\BarManager-main\\BarRating\\businesslayer\\services\\barservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\barservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\controllers\\barcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\controllers\\barcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|D:\\BarManager-main\\BarRating\\businesslayer\\services\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|D:\\BarManager-main\\BarRating\\datalayer\\data\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\data\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|D:\\BarManager-main\\BarRating\\datalayer\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\barmanager-main\\barrating\\barrating\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|D:\\BarManager-main\\BarRating\\businesslayer\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|D:\\BarManager-main\\BarRating\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|D:\\BarManager-main\\BarRating\\datalayer\\migrations\\20240428084122_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20240428084122_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|D:\\BarManager-main\\BarRating\\datalayer\\migrations\\bardbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\bardbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|D:\\BarManager-main\\BarRating\\barrating\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|D:\\BarManager-main\\BarRating\\businesslayer\\idbcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\idbcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|D:\\BarManager-main\\BarRating\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\User\\Delete.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\User\\Details.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListAll.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\User\\ListAll.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\User\\ListAll.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\User\\ListAll.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\User\\ListAll.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Search.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Search.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Search.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Search.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAawG4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminStartPage.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Admin\\AdminStartPage.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Admin\\AdminStartPage.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Admin\\AdminStartPage.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Admin\\AdminStartPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Reviews\\Details.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Reviews\\Details.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Reviews\\Details.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Reviews\\Details.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutForAdmin.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Shared\\_LayoutForAdmin.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Shared\\_LayoutForAdmin.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Shared\\_LayoutForAdmin.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Shared\\_LayoutForAdmin.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Reviews\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Reviews\\Edit.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Reviews\\Edit.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Reviews\\Edit.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:48.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Reviews\\Create.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Reviews\\Create.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Reviews\\Create.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Reviews\\Create.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListAll.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\ListAll.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\ListAll.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\ListAll.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\ListAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Index.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Index.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Index.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Index.cshtml",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAAKAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:48.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Edit.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Edit.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Edit.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:48.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Details.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Details.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Details.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Details.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateReview.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\CreateReview.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\CreateReview.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\CreateReview.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\CreateReview.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240428225309_firstMigration.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\DataLayer\\Migrations\\20240428225309_firstMigration.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240428225309_firstMigration.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\DataLayer\\Migrations\\20240428225309_firstMigration.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240428225309_firstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:53:09.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T22:23:47.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T22:42:07.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\DataLayer\\Data\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Data\\Enums\\Roles.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\DataLayer\\Data\\Enums\\Roles.cs",
+              "RelativeToolTip": "DataLayer\\Data\\Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BarRating\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BarRating\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:42:18.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\appsettings.json",
+              "RelativeDocumentMoniker": "BarRating\\appsettings.json",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\appsettings.json",
+              "RelativeToolTip": "BarRating\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAADtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T22:51:51.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BarDbContext.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\DataLayer\\BarDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\BarDbContext.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\DataLayer\\BarDbContext.cs",
+              "RelativeToolTip": "DataLayer\\BarDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T22:23:49.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Create.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Create.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Create.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Create.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BarRating\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BarRating\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\DataLayer\\Data\\Entities\\Bar.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Data\\Entities\\Bar.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\DataLayer\\Data\\Entities\\Bar.cs",
+              "RelativeToolTip": "DataLayer\\Data\\Entities\\Bar.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Delete.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Bar\\Delete.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Delete.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BarModel.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Models\\BarModel.cs",
+              "RelativeDocumentMoniker": "BarRating\\Models\\BarModel.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Models\\BarModel.cs",
+              "RelativeToolTip": "BarRating\\Models\\BarModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:14:46.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BarRating\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BarRating\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:02:02.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BarServices.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BusinessLayer\\Services\\BarServices.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\BarServices.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BusinessLayer\\Services\\BarServices.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\BarServices.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAawGcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BarController.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Controllers\\BarController.cs",
+              "RelativeDocumentMoniker": "BarRating\\Controllers\\BarController.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Controllers\\BarController.cs",
+              "RelativeToolTip": "BarRating\\Controllers\\BarController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAAJ4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:48.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "BarRating\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "BarRating\\Controllers\\ReviewController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAYwF8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\DataLayer\\Data\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Data\\Entities\\Review.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\DataLayer\\Data\\Entities\\Review.cs",
+              "RelativeToolTip": "DataLayer\\Data\\Entities\\Review.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:23:01.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:23:00.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ReviewServices.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BusinessLayer\\Services\\ReviewServices.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\ReviewServices.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BusinessLayer\\Services\\ReviewServices.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\ReviewServices.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:48.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:22:59.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BarRating\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BarRating\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAiwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\DataLayer\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Data\\Entities\\User.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\DataLayer\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "DataLayer\\Data\\Entities\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:22:46.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:22:44.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:22:42.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:20:23.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:13:13.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ReviewModel.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Models\\ReviewModel.cs",
+              "RelativeDocumentMoniker": "BarRating\\Models\\ReviewModel.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Models\\ReviewModel.cs",
+              "RelativeToolTip": "BarRating\\Models\\ReviewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UsersModel.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Models\\UsersModel.cs",
+              "RelativeDocumentMoniker": "BarRating\\Models\\UsersModel.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Models\\UsersModel.cs",
+              "RelativeToolTip": "BarRating\\Models\\UsersModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Models\\AdminModel.cs",
+              "RelativeDocumentMoniker": "BarRating\\Models\\AdminModel.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Models\\AdminModel.cs",
+              "RelativeToolTip": "BarRating\\Models\\AdminModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BarRating\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BarRating\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-28T21:06:49.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BusinessLayer\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\UserServices.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BusinessLayer\\Services\\UserServices.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\UserServices.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAxwI0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAqwKkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Program.cs",
+              "RelativeDocumentMoniker": "BarRating\\Program.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Program.cs",
+              "RelativeToolTip": "BarRating\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAIBZwJIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DataLayer.csproj",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T21:06:49.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240428084122_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\DataLayer\\Migrations\\20240428084122_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240428084122_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\DataLayer\\Migrations\\20240428084122_InitialCreate.Designer.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240428084122_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAH0BAAAAAAAAAAAWwIoBAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BarDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\DataLayer\\Migrations\\BarDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\BarDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\DataLayer\\Migrations\\BarDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\BarDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAHoBAAAAAAAAAAAWwHoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:06:49.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAYwBgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DownloadPersonalData.cshtml.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAD4vzAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAADwvxcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T21:06:49.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IDbCRUD.cs",
+              "DocumentMoniker": "D:\\BarManager-main\\BarRating\\BusinessLayer\\IDbCRUD.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\IDbCRUD.cs",
+              "ToolTip": "D:\\BarManager-main\\BarRating\\BusinessLayer\\IDbCRUD.cs",
+              "RelativeToolTip": "BusinessLayer\\IDbCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:06:49.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

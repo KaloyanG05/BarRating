@@ -1,0 +1,28 @@
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+D:\Aneliya\My Projects\BarRating - exam\BarRating\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+D:\BarManager-main\BarRating\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\BarManager-main\BarRating\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+D:\BarManager-main\BarRating\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\BarManager-main\BarRating\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\BarManager-main\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\BarManager-main\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BarManager-main\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\BarManager-main\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\BarManager-main\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\BarManager-main\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\BarManager-main\BarRating\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\BarManager-main\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\BarManager-main\BarRating\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+D:\BarManager-main\BarRating\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
